@@ -1,0 +1,22 @@
+,,Scoring,Scoring,Scoring,,,Goals,Goals,Goals,Goals,Assists,Assists,Assists,,,,,-additional
+Rk,Player,G,A,PTS,+/-,PIM,EV,PP,SH,GW,EV,PP,SH,S,S%,SHFT,TOI,-9999
+1,Connor Brown,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,24,16:31,brownco02
+2,Travis Dermott,0,1,1,1,0,0,0,0,0,1,0,0,2,0.0,24,13:41,dermotr01
+3,Tyler Ennis,1,0,1,1,0,1,0,0,0,0,0,0,1,100.0,13,10:27,ennisty01
+4,Jake Gardiner,0,1,1,3,0,0,0,0,0,1,0,0,0,,27,22:25,gardija01
+5,Frederik Gauthier,0,1,1,1,0,0,0,0,0,1,0,0,0,,14,8:11,gauthfr01
+6,Ron Hainsey,0,0,0,0,2,0,0,0,0,0,0,0,0,,29,20:13,hainsro01
+7,Andreas Johnsson,0,0,0,1,0,0,0,0,0,0,0,0,2,0.0,24,15:10,johnsan01
+8,Nazem Kadri,0,1,1,1,2,0,0,0,0,1,0,0,5,0.0,20,17:08,kadrina01
+9,Kasperi Kapanen,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,27,15:37,kapanka01
+10,Pär Lindholm,0,0,0,1,0,0,0,0,0,0,0,0,0,,20,11:54,lindhpa01
+11,Patrick Marleau,1,0,1,1,0,1,0,0,0,0,0,0,5,20.0,21,17:19,marlepa01
+12,Mitch Marner,0,1,1,1,0,0,0,0,0,1,0,0,1,0.0,24,16:34,marnemi01
+13,Auston Matthews,0,1,1,1,0,0,0,0,0,1,0,0,3,0.0,23,15:59,matthau01
+14,William Nylander,0,2,2,1,6,0,0,0,0,2,0,0,1,0.0,22,16:33,nylanwi01
+15,Igor Ozhiganov,0,0,0,2,0,0,0,0,0,0,0,0,1,0.0,20,12:01,ozhigig01
+16,Morgan Rielly,1,0,1,1,0,1,0,0,1,0,0,0,3,33.3,30,23:00,riellmo01
+17,John Tavares,1,0,1,1,0,1,0,0,0,0,0,0,1,100.0,23,15:43,tavarjo01
+18,Nikita Zaitsev,0,0,0,1,0,0,0,0,0,0,0,0,2,0.0,26,22:20,zaitsni01
+19,Frederik Andersen,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,60:00,anderfr01
+,TOTAL,4,8,12,,10,4,0,0,,,,,29,13.8,,,-9999
